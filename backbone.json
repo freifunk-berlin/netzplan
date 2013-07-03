@@ -170,6 +170,13 @@
             "properties": {
                 "line-color": "00FF00"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.454699,52.503481],  [13.466175,52.513722]] },
+            "properties": {
+                "line-color": "00FF00"
+            }
         }
     ]
 }
