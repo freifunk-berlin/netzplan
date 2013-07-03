@@ -85,6 +85,14 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.446326,52.470773] },
+            "properties": {
+                "name": "Braunschweiger Straße 53-55",
+                "marker-color": "FF0000"
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.430403, 52.475535] },
             "properties": {
                 "name": "Agoracollective",
