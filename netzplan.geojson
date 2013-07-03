@@ -24,6 +24,7 @@
             "properties": {
                 "name": "Klungerkranich (Neukoelln Arkaden Dach)",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Neukoelln_Arkaden",
+                "pad": "http://pad.spline.de/ff-arkaden",
                 "marker-color": "00FF00"
             }
         },
