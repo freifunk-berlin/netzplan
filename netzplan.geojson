@@ -82,6 +82,13 @@
                 "wiki": "",
                 "marker-color": "FF8500"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.432251, 52.482173]] },
+            "properties": {
+                "marker-color": "FF0000"
+            }
         }
     ]
 }
