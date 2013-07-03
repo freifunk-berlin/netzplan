@@ -62,10 +62,11 @@
                 "name": "Magdalenen-Kirche",
                 "note": "Durch den Gemeinderat abgelehnt",
                 "marker-color": "FF0000"
-        ,
+            }
+        },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.428484,52.479716] },
+            "geometry": { "type": "Point", "coordinates": [13.428484, 52.479716] },
             "properties": {
                 "name": "Laidak",
                 "note": "Freedom Fighter Box (Anon-VPN)",
