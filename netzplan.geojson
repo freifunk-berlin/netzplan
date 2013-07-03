@@ -73,6 +73,15 @@
                 "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
                 "marker-color": "00FF00"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.436081, 52.484318] },
+            "properties": {
+                "name": "Martin-Luther-Kirche",
+                "wiki": "",
+                "marker-color": "FF8500"
+            }
         }
     ]
 }
