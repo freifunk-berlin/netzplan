@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [52.499811, 13.430981] },
+            "geometry": { "type": "Point", "coordinates": [13.430981, 52.499811] },
             "properties": {
                 "name": "Emmauskirche",
                 "osm-link": "http://www.openstreetmap.org/?mlat=52.499811&mlon=13.430981&zoom=18&layers=M",
