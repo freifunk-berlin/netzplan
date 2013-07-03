@@ -1,10 +1,6 @@
 {
     "type": "FeatureCollection",
     "features": [
-
-/*
- * Nodes
- */
         {
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.430981, 52.499811] },
@@ -103,7 +99,8 @@
                 "wiki": "",
                 "marker-color": "FF8500"
             }
-        },{
+        },
+        {
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.451213,52.473704] },
             "properties": {
@@ -113,13 +110,6 @@
                 "marker-color": "8B008B"
             }
         },
-
-
-
-/*
- * Lines
- */
-
         {
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.432251, 52.482173]] },
