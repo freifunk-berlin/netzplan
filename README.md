@@ -1,7 +1,7 @@
-ffnk-netzplan
+ff-netzplan
 =============
 
-Netzausbauplan für Freifunk Neukoelln
+Netzausbauplan für Freifunk
 
 Knotenfarbe:
 
