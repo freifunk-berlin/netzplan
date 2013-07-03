@@ -155,6 +155,14 @@
                 "name": "Beuth Hochschule",
                 "marker-color": "FF8500"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.454699,52.503481] },
+            "properties": {
+                "name": "Zwingli",
+                "marker-color": "FF0000"
+            }
         }
     ]
 }
