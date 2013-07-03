@@ -9,6 +9,6 @@
                 "osm-link": "http://www.openstreetmap.org/?mlat=52.499811&mlon=13.430981&zoom=18&layers=M",
                 "marker-color": "FF0000"
             }
-        },
+        }
     ]
 }
