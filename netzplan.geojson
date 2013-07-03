@@ -45,6 +45,15 @@
                 "note": "Dach marode und muss erst renoviert werden; erneute Anfrage bzgl Stand 26.06.2013 - warten auf Antwort",
                 "marker-color": "FF8500"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.427995,52.478886] },
+            "properties": {
+                "name": "Jobcenter Neukölln",
+                "note": "Anfrage bei der Verwaltung steht noch aus",
+                "marker-color": "FF8500"
+            }
         }
     ]
 }
