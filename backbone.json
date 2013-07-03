@@ -97,6 +97,40 @@
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Segenskirche",
                 "marker-color": "00FF00"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.422605,52.540593] },
+            "properties": {
+                "name": "Eliaskirche",
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Eliaskirche",
+                "marker-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.422605,52.540593], [13.411956,52.536097]] },
+            "properties": {
+                "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.466175,52.513722] },
+            "properties": {
+                "name": "Kinzigstrasse 9",
+                "wiki": "http://wiki.freifunk.net/Freifunk_Berlin_K9",
+                "marker-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.366798,52.49177] },
+            "properties": {
+                "name": "Mansteinstrasse 9",
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Manstein10",
+                "marker-color": "FF8500"
+            }
         }
     ]
 }
