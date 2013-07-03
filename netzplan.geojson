@@ -99,7 +99,20 @@
                 "wiki": "",
                 "marker-color": "FF8500"
             }
+        },{
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.451213,52.473704] },
+            "properties": {
+                "name": "B-Lage",
+                "note": "Freedom Fighter Box (Anon-VPN)",
+                "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
+                "marker-color": "FF8500"
+            }
         },
+        
+        
+        
+        
         {
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.432251, 52.482173]] },
