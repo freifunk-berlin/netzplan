@@ -54,6 +54,15 @@
                 "note": "Anfrage bei der Verwaltung steht noch aus",
                 "marker-color": "FF8500"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.441791, 52.472124] },
+            "properties": {
+                "name": "Magdalenen-Kirche",
+                "note": "Durch den Gemeinderat abgelehnt",
+                "marker-color": "FF0000"
+            }
         }
     ]
 }
