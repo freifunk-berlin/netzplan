@@ -39,15 +39,6 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.443658, 52.463906] },
-            "properties": {
-                "name": "Karl-Marx-Straße 282",
-                "note": "Dach marode und muss erst renoviert werden; erneute Anfrage bzgl Stand 26.06.2013 - warten auf Antwort",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.427995,52.478886] },
             "properties": {
                 "name": "Jobcenter Neukölln",
@@ -66,16 +57,6 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.428484, 52.479716] },
-            "properties": {
-                "name": "Laidak",
-                "note": "Freedom Fighter Box (Anon-VPN)",
-                "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
-                "marker-color": "8B008B"
-            }
-        },
-        {
-            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.436081, 52.484318] },
             "properties": {
                 "name": "Martin-Luther-Kirche",
@@ -85,29 +66,11 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.446326,52.470773] },
-            "properties": {
-                "name": "Braunschweiger Straße 53-55",
-                "marker-color": "FF0000"
-            }
-        },
-        {
-            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.430403, 52.475535] },
             "properties": {
                 "name": "Agoracollective",
                 "wiki": "",
                 "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.451213,52.473704] },
-            "properties": {
-                "name": "B-Lage",
-                "note": "Freedom Fighter Box (Anon-VPN)",
-                "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
-                "marker-color": "8B008B"
             }
         },
         {
