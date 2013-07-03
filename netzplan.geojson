@@ -1,6 +1,10 @@
 {
     "type": "FeatureCollection",
     "features": [
+
+/*
+ * Nodes
+ */
         {
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.430981, 52.499811] },
@@ -71,7 +75,7 @@
                 "name": "Laidak",
                 "note": "Freedom Fighter Box (Anon-VPN)",
                 "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
-                "marker-color": "00FF00"
+                "marker-color": "8B008B"
             }
         },
         {
@@ -106,13 +110,16 @@
                 "name": "B-Lage",
                 "note": "Freedom Fighter Box (Anon-VPN)",
                 "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
-                "marker-color": "FF8500"
+                "marker-color": "8B008B"
             }
         },
-        
-        
-        
-        
+
+
+
+/*
+ * Lines
+ */
+
         {
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.432251, 52.482173]] },
