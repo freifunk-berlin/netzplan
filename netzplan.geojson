@@ -26,6 +26,15 @@
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Neukoelln_Arkaden",
                 "marker-color": "00FF00"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.434986, 52.481447] },
+            "properties": {
+                "name": "Rathaus Neukölln",
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Rathaus_Neukoelln",
+                "marker-color": "FF0000"
+            }
         }
     ]
 }
