@@ -88,6 +88,15 @@
             "properties": {
                 "line-color": "00FF00"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.411956,52.536097] },
+            "properties": {
+                "name": "Segenskirche",
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Segenskirche",
+                "marker-color": "00FF00"
+            }
         }
     ]
 }
