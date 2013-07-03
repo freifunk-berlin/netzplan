@@ -36,6 +36,15 @@
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Rathaus_Neukoelln",
                 "marker-color": "FF0000"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.443658, 52.463906] },
+            "properties": {
+                "name": "Karl-Marx-Straße 282",
+                "note": "Dach marode und muss erst renoviert werden; erneute Anfrage bzgl Stand 26.06.2013 - warten auf Antwort"
+                "marker-color": "FF8500"
+            }
         }
     ]
 }
