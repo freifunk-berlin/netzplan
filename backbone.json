@@ -161,7 +161,14 @@
             "geometry": { "type": "Point", "coordinates": [13.454699,52.503481] },
             "properties": {
                 "name": "Zwingli",
-                "marker-color": "FF0000"
+                "marker-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.454699,52.503481], [13.384871,52.49372]] },
+            "properties": {
+                "line-color": "00FF00"
             }
         }
     ]
