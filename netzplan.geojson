@@ -17,6 +17,15 @@
                 "name": "Philipp-Melanchthon-Kirche",
                 "marker-color": "FF0000"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.432251, 52.482173 ] },
+            "properties": {
+                "name": "Klungerkranich (Neukoelln Arkaden Dach)",
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Neukoelln_Arkaden",
+                "marker-color": "00FF00"
+            }
         }
     ]
 }
