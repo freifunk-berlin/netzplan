@@ -131,6 +131,30 @@
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Manstein10",
                 "marker-color": "FF8500"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.342662,52.523919] },
+            "properties": {
+                "name": "IN-Berlin",
+                "marker-color": "FF8500"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.200432,52.53486] },
+            "properties": {
+                "name": "Rathaus Spandau",
+                "marker-color": "FF8500"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.350769,52.543373] },
+            "properties": {
+                "name": "Beuth Hochschule",
+                "marker-color": "FF8500"
+            }
         }
     ]
 }
