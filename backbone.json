@@ -177,6 +177,38 @@
             "properties": {
                 "line-color": "00FF00"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.52406,52.455834] },
+            "properties": {
+                "name": "Kleinwinderenergie - HTW Berlin",
+                "marker-color": "FF8500"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.450508,52.493636] },
+            "properties": {
+                "name": "Kleinwinderenergie - Puschkinallee",
+                "marker-color": "FF8500"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.493425,52.569406] },
+            "properties": {
+                "name": "Kleinwinderenergie - Zum Hechtgraben",
+                "marker-color": "FF8500"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.309825,52.521702] },
+            "properties": {
+                "name": "Kleinwinderenergie - Kraftwerk Charlottenburg",
+                "marker-color": "FF8500"
+            }
         }
     ]
 }
