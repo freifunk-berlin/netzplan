@@ -17,7 +17,8 @@
                 "name": "Klungerkranich (Neukoelln Arkaden Dach)",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Neukoelln_Arkaden",
                 "pad": "http://pad.spline.de/ff-arkaden",
-                "marker-color": "00FF00"
+                "marker-color": "8B008B",
+                "batch":1
             }
         },
         {
@@ -44,7 +45,8 @@
             "properties": {
                 "name": "Bezirksamt Kreuzberg",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Bezirksamt_Kreuzberg",
-                "marker-color": "00FF00"
+                "marker-color": "8B008B",
+               "batch":1
             }
         },
         {
@@ -60,7 +62,8 @@
             "properties": {
                 "name": "Segenskirche",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Segenskirche",
-                "marker-color": "00FF00"
+                "marker-color": "8B008B",
+                "batch":1
             }
         },
         {
@@ -69,7 +72,8 @@
             "properties": {
                 "name": "Eliaskirche",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Eliaskirche",
-                "marker-color": "00FF00"
+                "marker-color": "8B008B",
+                "batch":1
             }
         },
         {
@@ -85,7 +89,8 @@
             "properties": {
                 "name": "Kinzigstrasse 9",
                 "wiki": "http://wiki.freifunk.net/Freifunk_Berlin_K9",
-                "marker-color": "00FF00"
+                "marker-color": "8B008B",
+                "batch":1
             }
         },
         {
@@ -94,7 +99,8 @@
             "properties": {
                 "name": "Mansteinstrasse 9",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Manstein10",
-                "marker-color": "FF8500"
+                "marker-color": "8B008B",
+                "batch":1
             }
         },
         {
@@ -102,7 +108,8 @@
             "geometry": { "type": "Point", "coordinates": [13.342662,52.523919] },
             "properties": {
                 "name": "IN-Berlin",
-                "marker-color": "FF8500"
+                "marker-color": "8B008B",
+                "batch":1
             }
         },
         {
