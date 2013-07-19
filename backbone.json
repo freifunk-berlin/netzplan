@@ -12,14 +12,6 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.433957, 52.46574 ] },
-            "properties": {
-                "name": "Philipp-Melanchthon-Kirche",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.432251, 52.482173 ] },
             "properties": {
                 "name": "Klungerkranich (Neukoelln Arkaden Dach)",
@@ -43,33 +35,6 @@
             "properties": {
                 "name": "Jobcenter Neukölln",
                 "note": "Anfrage bei der Verwaltung steht noch aus",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.441791, 52.472124] },
-            "properties": {
-                "name": "Magdalenen-Kirche",
-                "note": "Durch den Gemeinderat abgelehnt",
-                "marker-color": "FF0000"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.436081, 52.484318] },
-            "properties": {
-                "name": "Martin-Luther-Kirche",
-                "wiki": "",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.430403, 52.475535] },
-            "properties": {
-                "name": "Agoracollective",
-                "wiki": "",
                 "marker-color": "FF8500"
             }
         },
