@@ -9,3 +9,4 @@ Knotenfarbe:
 * orange - in Aufbauphase
 * rot - abgelehnter Knoten
 * lila - VPN Knoten
+* pink - Freedom Fighter Box Knoten
