@@ -37,6 +37,14 @@
                 "name": "Braunschweiger Straße 53-55",
                 "marker-color": "FF0000"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.427995,52.491189] },
+            "properties": {
+                "name": "Friedelstr. 22",
+                "marker-color": "FF38CD"
+            }
         }
     ]
 }
