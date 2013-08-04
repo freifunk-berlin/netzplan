@@ -40,7 +40,7 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [52.491189,13.427995] },
+            "geometry": { "type": "Point", "coordinates": [13.427995,52.491189] },
             "properties": {
                 "name": "Friedelstr. 22",
                 "marker-color": "FF38CD"
