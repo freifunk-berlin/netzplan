@@ -197,6 +197,20 @@
                 "name": "Stephanuskirche",
                 "marker-color": "FF8500"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.386711,52.558808], [13.372978,52.543966]] },
+            "properties": {
+                "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.350769,52.543373], [13.372978,52.543966]] },
+            "properties": {
+                "line-color": "00FF00"
+            }
         }
     ]
 }
