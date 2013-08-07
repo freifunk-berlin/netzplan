@@ -187,7 +187,15 @@
             "geometry": { "type": "Point", "coordinates": [13.372978,52.543966] },
             "properties": {
                 "name": "Raumfahrtagentur (Stattbad Wedding)",
-                "marker-color": "FF8500",
+                "marker-color": "FF8500"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.386711,52.558808] },
+            "properties": {
+                "name": "Stephanuskirche",
+                "marker-color": "FF8500"
             }
         }
     ]
