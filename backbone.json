@@ -181,6 +181,14 @@
                 "name": "Kleinwinderenergie - Kraftwerk Charlottenburg",
                 "marker-color": "FF8500"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.372978,52.543966] },
+            "properties": {
+                "name": "Raumfahrtagentur (Stattbad Wedding)",
+                "marker-color": "FF8500",
+            }
         }
     ]
 }
