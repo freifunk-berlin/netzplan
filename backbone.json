@@ -242,6 +242,22 @@
                 "name": "Rathaus Neukölln - Bezirksamt Kreuzberg",
                 "line-color": "00FF00"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.434986, 52.481447], [13.436064720153809,52.48434178676255]] },
+            "properties": {
+                "name": "Rathaus Neukölln - Martin-Luther-Kirche",
+                "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.436064720153809,52.48434178676255] },
+            "properties": {
+                "name": "Martin-Luther-Kirche",
+                "marker-color": "FF8500"
+            }
         }
     ]
 }
