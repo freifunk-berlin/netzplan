@@ -218,6 +218,30 @@
             "properties": {
                 "line-color": "00FF00"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.434986, 52.481447], [13.454699,52.503481]] },
+            "properties": {
+                "name": "Rathaus Neukölln - Zwingli",
+                "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.434986, 52.481447], [13.430981, 52.499811]] },
+            "properties": {
+                "name": "Rathaus Neukölln - Emmauskirche",
+                "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.434986, 52.481447], [13.384871,52.49372]] },
+            "properties": {
+                "name": "Rathaus Neukölln - Bezirksamt Kreuzberg",
+                "line-color": "00FF00"
+            }
         }
     ]
 }
