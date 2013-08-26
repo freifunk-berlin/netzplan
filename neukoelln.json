@@ -46,6 +46,16 @@
                 "kontakt": "jan@apache.org",
                 "marker-color": "FF38CD"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.44141, 52.48306] },
+            "properties": {
+                "name": "k-fetisch",
+                "kontakt": "info@k-fetisch.net",
+                "url": "http://k-fetisch.net",
+                "marker-color": "FF38CD"
+            }
         }
     ]
 }
