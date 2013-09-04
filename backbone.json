@@ -5,19 +5,23 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.430981, 52.499811] },
             "properties": {
+                "marker-color": "FF8500",
                 "name": "Emmauskirche",
-                "log": "20.06.13: Telefonat mit Kuesterei. Rückruf erfolgt in den nächsten Tagen; 03.07.13: Erneuter Anruf jetzt scheint Juli aber ihr Ferienmonat zu sein.; 19.07.13: Verwaltung macht ferien, jegliche Koordination erst ab August moeglich",
-                "marker-color": "FF8500"
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Emmauskirche",
+                "log": "20.06.13: Telefonat mit Kuesterei. Rückruf erfolgt in den nächsten Tagen",
+                "log": "03.07.13: Erneuter Anruf jetzt scheint Juli aber ihr Ferienmonat zu sein",
+                "log": "19.07.13: Verwaltung macht Ferien, jegliche Koordination erst ab August moeglich"
             }
         },
         {
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.432251, 52.482173 ] },
             "properties": {
+                "marker-color": "8B008B",
                 "name": "Klungerkranich (Neukoelln Arkaden Dach)",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Neukoelln_Arkaden",
                 "pad": "http://pad.spline.de/ff-arkaden",
-                "marker-color": "8B008B",
+		"log": "TBD",
                 "batch":1
             }
         },
@@ -25,27 +29,28 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.434986, 52.481447] },
             "properties": {
+                "marker-color": "FF8500",
                 "name": "Rathaus Neukölln",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Rathaus_Neukoelln",
-                "marker-color": "FF8500"
+		"log": "TBD"
             }
         },
         {
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.427995,52.478886] },
             "properties": {
+                "marker-color": "FF8500",
                 "name": "Jobcenter Neukölln",
-                "note": "Anfrage bei der Verwaltung steht noch aus",
-                "marker-color": "FF8500"
+                "note": "Anfrage bei der Verwaltung steht noch aus"
             }
         },
         {
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.384871,52.49372] },
             "properties": {
+                "marker-color": "8B008B",
                 "name": "Bezirksamt Kreuzberg",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Bezirksamt_Kreuzberg",
-                "marker-color": "8B008B",
                "batch":1
             }
         },
@@ -53,7 +58,8 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.432251, 52.482173]] },
             "properties": {
-                "line-color": "00FF00"
+                "line-color": "00FF00",
+                "name": "TBD"
             }
         },
         {
@@ -70,9 +76,9 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.422605,52.540593] },
             "properties": {
+                "marker-color": "8B008B",
                 "name": "Eliaskirche",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Eliaskirche",
-                "marker-color": "8B008B",
                 "batch":1
             }
         },
@@ -80,6 +86,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.422605,52.540593], [13.411956,52.536097]] },
             "properties": {
+                "name": "TBD",
                 "line-color": "00FF00"
             }
         },
@@ -97,9 +104,9 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.366798,52.49177] },
             "properties": {
+                "marker-color": "8B008B",
                 "name": "Mansteinstrasse 9",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Manstein10",
-                "marker-color": "8B008B",
                 "batch":1
             }
         },
@@ -107,8 +114,10 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.342662,52.523919] },
             "properties": {
-                "name": "IN-Berlin",
                 "marker-color": "8B008B",
+                "name": "Alt-Moabit",
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Alt-Moabit",
+		"log": "20.08.2013: Vertrag unterschrieben, Angebote Elektriker im Zulauf",
                 "batch":1
             }
         },
@@ -140,6 +149,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.454699,52.503481], [13.384871,52.49372]] },
             "properties": {
+                "name": "TBD",
                 "line-color": "00FF00"
             }
         },
@@ -147,6 +157,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.454699,52.503481],  [13.466175,52.513722]] },
             "properties": {
+                "name": "TBD",
                 "line-color": "00FF00"
             }
         },
@@ -202,6 +213,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.386711,52.558808], [13.372978,52.543966]] },
             "properties": {
+                "name": "TBD",
                 "line-color": "00FF00"
             }
         },
@@ -209,6 +221,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.350769,52.543373], [13.372978,52.543966]] },
             "properties": {
+                "name": "TBD",
                 "line-color": "00FF00"
             }
         },
@@ -216,6 +229,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.350769,52.543373], [13.411956,52.536097]] },
             "properties": {
+                "name": "TBD",
                 "line-color": "00FF00"
             }
         },
