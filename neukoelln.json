@@ -56,6 +56,15 @@
                 "url": "http://k-fetisch.net",
                 "marker-color": "FF38CD"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [52.46813, 13.43254] },
+            "properties": {
+                "name": "leuchtstoff - kaffeebar",
+                "url": "http://leuchtstoffk.de",
+                "marker-color": "FF38CD"
+            }
         }
     ]
 }
