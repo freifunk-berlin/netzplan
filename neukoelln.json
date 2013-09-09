@@ -59,7 +59,7 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [52.46813, 13.43254] },
+            "geometry": { "type": "Point", "coordinates": [13.43254, 52.46813] },
             "properties": {
                 "name": "leuchtstoff - kaffeebar",
                 "url": "http://leuchtstoffk.de",
