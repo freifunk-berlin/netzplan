@@ -203,16 +203,16 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.386711,52.558808] },
             "properties": {
-                "name": "Stephanuskirche",
-                "marker-color": "FF8500"
+                "name": "Abgesagt: Stephanuskirche",
+                "marker-color": "FF0000"
             }
         },
         {
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.386711,52.558808], [13.372978,52.543966]] },
             "properties": {
-                "name": "TBD",
-                "line-color": "00FF00"
+                "name": "Abgesagt: Raumfahrtagentur (Statbad Wedding) - Stephanuskirche",
+                "line-color": "FF0000"
             }
         },
         {
