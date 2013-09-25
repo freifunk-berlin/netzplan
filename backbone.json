@@ -1,275 +1,740 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.430981, 52.499811] },
-            "properties": {
-                "marker-color": "FF8500",
-                "name": "Emmauskirche",
-                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Emmauskirche",
-                "log": "20.06.13: Telefonat mit Kuesterei. Rückruf erfolgt in den nächsten Tagen; 03.07.13: Erneuter Anruf jetzt scheint Juli aber ihr Ferienmonat zu sein; 19.07.13: Verwaltung macht Ferien, jegliche Koordination erst ab August moeglich"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.432251, 52.482173 ] },
-            "properties": {
-                "marker-color": "8B008B",
-                "name": "Klungerkranich (Neukoelln Arkaden Dach)",
-                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Neukoelln_Arkaden",
-                "pad": "http://pad.spline.de/ff-arkaden",
-		"log": "TBD",
-                "batch":1
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.434986, 52.481447] },
-            "properties": {
-                "marker-color": "FF8500",
-                "name": "Rathaus Neukölln",
-                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Rathaus_Neukoelln",
-		"log": "TBD"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.427995,52.478886] },
-            "properties": {
-                "marker-color": "FF8500",
-                "name": "Jobcenter Neukölln",
-                "note": "Anfrage bei der Verwaltung steht noch aus"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.384871,52.49372] },
-            "properties": {
-                "marker-color": "8B008B",
-                "name": "Bezirksamt Kreuzberg",
-                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Bezirksamt_Kreuzberg",
-               "batch":1
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.432251, 52.482173]] },
-            "properties": {
-                "line-color": "00FF00",
-                "name": "TBD"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.411956,52.536097] },
-            "properties": {
-                "name": "Segenskirche",
-                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Segenskirche",
-                "marker-color": "8B008B",
-                "batch":1
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.422605,52.540593] },
-            "properties": {
-                "marker-color": "8B008B",
-                "name": "Eliaskirche",
-                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Eliaskirche",
-                "batch":1
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.422605,52.540593], [13.411956,52.536097]] },
-            "properties": {
-                "name": "TBD",
-                "line-color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.466175,52.513722] },
-            "properties": {
-                "name": "Kinzigstrasse 9",
-                "wiki": "http://wiki.freifunk.net/Freifunk_Berlin_K9",
-                "marker-color": "8B008B",
-                "batch":1
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.366798,52.49177] },
-            "properties": {
-                "marker-color": "8B008B",
-                "name": "Mansteinstrasse 9",
-                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Manstein10",
-                "batch":1
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.342662,52.523919] },
-            "properties": {
-                "marker-color": "8B008B",
-                "name": "Alt-Moabit",
-                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Alt-Moabit",
-		"log": "20.08.2013: Vertrag unterschrieben, Angebote Elektriker im Zulauf",
-                "batch":1
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.200432,52.53486] },
-            "properties": {
-                "name": "Rathaus Spandau",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.350769,52.543373] },
-            "properties": {
-                "name": "Beuth Hochschule",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.454699,52.503481] },
-            "properties": {
-                "name": "Zwingli",
-                "marker-color": "CCCCCC"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.454699,52.503481], [13.384871,52.49372]] },
-            "properties": {
-                "name": "TBD",
-                "line-color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.454699,52.503481],  [13.466175,52.513722]] },
-            "properties": {
-                "name": "TBD",
-                "line-color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.52406,52.455834] },
-            "properties": {
-                "name": "Kleinwinderenergie - HTW Berlin",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.450508,52.493636] },
-            "properties": {
-                "name": "Kleinwinderenergie - Puschkinallee",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.493425,52.569406] },
-            "properties": {
-                "name": "Kleinwinderenergie - Zum Hechtgraben",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.309825,52.521702] },
-            "properties": {
-                "name": "Kleinwinderenergie - Kraftwerk Charlottenburg",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.372978,52.543966] },
-            "properties": {
-                "name": "Raumfahrtagentur (Stattbad Wedding)",
-                "marker-color": "FF8500"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.386711,52.558808] },
-            "properties": {
-                "name": "Stephanuskirche",
-                "marker-color": "FF0000"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.386711,52.558808], [13.372978,52.543966]] },
-            "properties": {
-                "name": "TBD",
-                "line-color": "FF0000"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.350769,52.543373], [13.372978,52.543966]] },
-            "properties": {
-                "name": "TBD",
-                "color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.350769,52.543373], [13.411956,52.536097]] },
-            "properties": {
-                "name": "TBD",
-                "line-color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.434986, 52.481447], [13.454699,52.503481]] },
-            "properties": {
-                "name": "Rathaus Neukölln - Zwingli",
-                "line-color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.434986, 52.481447], [13.430981, 52.499811]] },
-            "properties": {
-                "name": "Rathaus Neukölln - Emmauskirche",
-                "line-color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.434986, 52.481447], [13.384871,52.49372]] },
-            "properties": {
-                "name": "Rathaus Neukölln - Bezirksamt Kreuzberg",
-                "line-color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.434986, 52.481447], [13.436064720153809,52.48434178676255]] },
-            "properties": {
-                "name": "Rathaus Neukölln - Martin-Luther-Kirche",
-                "line-color": "00FF00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.436064720153809,52.48434178676255] },
-            "properties": {
-                "name": "Martin-Luther-Kirche",
-                "marker-color": "FF8500"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.430981,
+          52.499811
+        ]
+      },
+      "properties": {
+        "marker-color": "FF8500",
+        "name": "Emmauskirche",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Emmauskirche",
+        "log": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432251,
+          52.482173
+        ]
+      },
+      "properties": {
+        "marker-color": null,
+        "name": "Klungerkranich (Neukoelln Arkaden Dach)",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Neukoelln_Arkaden",
+        "pad": "http://pad.spline.de/ff-arkaden",
+        "log": "TBD",
+        "batch": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434986,
+          52.481447
+        ]
+      },
+      "properties": {
+        "marker-color": "FF8500",
+        "name": "Rathaus Neukölln",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Rathaus_Neukoelln",
+        "log": "TBD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.427995,
+          52.478886
+        ]
+      },
+      "properties": {
+        "marker-color": "FF8500",
+        "name": "Jobcenter Neukölln",
+        "note": "Anfrage bei der Verwaltung steht noch aus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384871,
+          52.49372
+        ]
+      },
+      "properties": {
+        "marker-color": "00FF00",
+        "name": "Bezirksamt Kreuzberg",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Bezirksamt_Kreuzberg",
+        "batch": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.384871,
+            52.49372
+          ],
+          [
+            13.432251,
+            52.482173
+          ]
+        ]
+      },
+      "properties": {
+        "line-color": "00FF00",
+        "name": "TBD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411956,
+          52.536097
+        ]
+      },
+      "properties": {
+        "name": "Segenskirche",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Segenskirche",
+        "marker-color": null,
+        "batch": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.422605,
+          52.540593
+        ]
+      },
+      "properties": {
+        "marker-color": null,
+        "name": "Eliaskirche",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Eliaskirche",
+        "batch": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.422605,
+            52.540593
+          ],
+          [
+            13.411956,
+            52.536097
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TBD",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466175,
+          52.513722
+        ]
+      },
+      "properties": {
+        "name": "Kinzigstrasse 9",
+        "wiki": "http://wiki.freifunk.net/Freifunk_Berlin_K9",
+        "marker-color": null,
+        "batch": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366798,
+          52.49177
+        ]
+      },
+      "properties": {
+        "marker-color": null,
+        "name": "Mansteinstrasse 9",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Manstein10",
+        "batch": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342662,
+          52.523919
+        ]
+      },
+      "properties": {
+        "marker-color": null,
+        "name": "Alt-Moabit",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Alt-Moabit",
+        "log": null,
+        "batch": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.200432,
+          52.53486
+        ]
+      },
+      "properties": {
+        "name": "Rathaus Spandau",
+        "marker-color": "FF8500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350769,
+          52.543373
+        ]
+      },
+      "properties": {
+        "name": "Beuth Hochschule",
+        "marker-color": "FF8500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.454699,
+          52.503481
+        ]
+      },
+      "properties": {
+        "name": "Zwingli",
+        "marker-color": "CCCCCC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.454699,
+            52.503481
+          ],
+          [
+            13.384871,
+            52.49372
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TBD",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.454699,
+            52.503481
+          ],
+          [
+            13.466175,
+            52.513722
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TBD",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52406,
+          52.455834
+        ]
+      },
+      "properties": {
+        "name": "Kleinwinderenergie - HTW Berlin",
+        "marker-color": "FF8500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.450508,
+          52.493636
+        ]
+      },
+      "properties": {
+        "name": "Kleinwinderenergie - Puschkinallee",
+        "marker-color": "FF8500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.493425,
+          52.569406
+        ]
+      },
+      "properties": {
+        "name": "Kleinwinderenergie - Zum Hechtgraben",
+        "marker-color": "FF8500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.309825,
+          52.521702
+        ]
+      },
+      "properties": {
+        "name": "Kleinwinderenergie - Kraftwerk Charlottenburg",
+        "marker-color": "FF8500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.372978,
+          52.543966
+        ]
+      },
+      "properties": {
+        "name": "Stattbad Wedding (Raumfahrtagentur)",
+        "marker-color": "FF8500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386711,
+          52.558808
+        ]
+      },
+      "properties": {
+        "name": "Abgesagt: Stephanuskirche",
+        "marker-color": "FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.386711,
+            52.558808
+          ],
+          [
+            13.372978,
+            52.543966
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Abgesagt: Stattbad Wedding (Raumfahrtagentur) - Stephanuskirche",
+        "line-color": "FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.350769,
+            52.543373
+          ],
+          [
+            13.372978,
+            52.543966
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TBD",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.350769,
+            52.543373
+          ],
+          [
+            13.411956,
+            52.536097
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TBD",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.434986,
+            52.481447
+          ],
+          [
+            13.454699,
+            52.503481
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rathaus Neukölln - Zwingli",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.434986,
+            52.481447
+          ],
+          [
+            13.430981,
+            52.499811
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rathaus Neukölln - Emmauskirche",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.434986,
+            52.481447
+          ],
+          [
+            13.384871,
+            52.49372
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rathaus Neukölln - Bezirksamt Kreuzberg",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.434986,
+            52.481447
+          ],
+          [
+            13.436064720153809,
+            52.48434178676255
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rathaus Neukölln - Martin-Luther-Kirche",
+        "line-color": "00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.436064720153809,
+          52.48434178676255
+        ]
+      },
+      "properties": {
+        "name": "Martin-Luther-Kirche",
+        "marker-color": "FF8500"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoofenster",
+        "marker-color": "00FF00",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Zoofenster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.333250284194946,
+          52.50550564660158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathaus Kreuzberg - Zoofenster",
+        "line-color": "00FF00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.333250284194946,
+            52.50550564660158
+          ],
+          [
+            13.384874761104584,
+            52.49372307530778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scandic",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37485671043396,
+          52.50445422616214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoofenster - Scandic",
+        "line-color": "00FF00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.333250284194946,
+            52.50550564660158
+          ],
+          [
+            13.37485671043396,
+            52.50445422616214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumentenstraße",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.375897407531738,
+          52.48823565639024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kreuzgbergstraße 36",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37584376335144,
+          52.48947691820828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katzbachstraße",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376401662826538,
+          52.48906534580325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alex Tornado",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387393355369568,
+          52.49029188553527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumentenstraße - Bergmannstraße",
+        "line-color": "00FF00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.375897407531738,
+            52.48823565639024
+          ],
+          [
+            13.387398719787598,
+            52.49029188553527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.375902771949766,
+            52.488238922914675
+          ],
+          [
+            13.37584912776947,
+            52.48947691820828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3758544921875,
+            52.489480184640534
+          ],
+          [
+            13.376417756080627,
+            52.48906534580325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.375902771949766,
+            52.48823565639024
+          ],
+          [
+            13.376417756080627,
+            52.48906861226609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.375902771949766,
+            52.488238922914675
+          ],
+          [
+            13.384874761104584,
+            52.49372144224923
+          ]
+        ]
+      }
+    }
+  ]
 }
