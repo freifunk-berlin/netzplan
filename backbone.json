@@ -204,7 +204,7 @@
             "geometry": { "type": "Point", "coordinates": [13.386711,52.558808] },
             "properties": {
                 "name": "Stephanuskirche",
-                "marker-color": "FF8500"
+                "marker-color": "FF0000"
             }
         },
         {
@@ -212,7 +212,7 @@
             "geometry": { "type": "LineString", "coordinates": [[13.386711,52.558808], [13.372978,52.543966]] },
             "properties": {
                 "name": "TBD",
-                "line-color": "00FF00"
+                "line-color": "FF0000"
             }
         },
         {
@@ -220,7 +220,7 @@
             "geometry": { "type": "LineString", "coordinates": [[13.350769,52.543373], [13.372978,52.543966]] },
             "properties": {
                 "name": "TBD",
-                "line-color": "00FF00"
+                "color": "00FF00"
             }
         },
         {
