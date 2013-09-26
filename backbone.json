@@ -39,7 +39,7 @@
             "properties": {
                 "marker-color": "FF8500",
                 "name": "Jobcenter Neukölln",
-                "note": "Anfrage bei der Verwaltung steht noch aus"
+                "log": "Anfrage bei der Verwaltung steht noch aus"
             }
         },
         {
@@ -56,8 +56,8 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.432251, 52.482173]] },
             "properties": {
-                "name": "TBD"
-                "line-color": "00FF00",
+                "name": "Bezirksamt Kreuzberg - Neukoeln Arkaden",
+                "line-color": "00FF00"
             }
         },
         {
@@ -67,6 +67,7 @@
                 "name": "Segenskirche",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Segenskirche",
                 "marker-color": "8B008B",
+		"log": null,
                 "batch":1
             }
         },
@@ -74,9 +75,10 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.422605,52.540593] },
             "properties": {
-                "marker-color": "8B008B",
                 "name": "Eliaskirche",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Eliaskirche",
+                "marker-color": "8B008B",
+		"log": null,
                 "batch":1
             }
         },
@@ -84,7 +86,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.422605,52.540593], [13.411956,52.536097]] },
             "properties": {
-                "name": "? - Segenskirche",
+                "name": "Eliaskirche - Segenskirche",
                 "line-color": "00FF00"
             }
         },
@@ -112,7 +114,7 @@
 	    "type": "Feature",
 	    "geometry": { "type": "LineString", "coordinates": [[13.466175, 52.513722], [13.466529250144958, 52.51797383634725]] },
 	    "properties": {
-		"name": "Samariterkirche - Kinzig9",
+		"name": "Kinzig9 - Samariterkirche",
 		"line-color": "00FF00"
 	    }
 	},
@@ -133,7 +135,7 @@
                 "marker-color": "8B008B",
                 "name": "Alt-Moabit",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Alt-Moabit",
-		"log": "20.08.2013: Vertrag unterschrieben, Angebote Elektriker im Zulauf",
+		"log": "20.08.2013: Vertrag unterschrieben, 26.09.2013: Angebote Elektriker liegen vor, Beauftragung steht bevor",
                 "batch":1
             }
         },
@@ -185,7 +187,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.454699,52.503481], [13.384871,52.49372]] },
             "properties": {
-                "name": "TBD",
+                "name": "Zwingli - Bezirksamt Kreuzberg",
                 "line-color": "00FF00"
             }
         },
@@ -193,7 +195,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.454699,52.503481],  [13.466175,52.513722]] },
             "properties": {
-                "name": "TBD",
+                "name": "Zwingli - Kinzig9",
                 "line-color": "00FF00"
             }
         },
@@ -235,7 +237,8 @@
             "properties": {
                 "name": "Raumfahrtagentur (Stattbad Wedding)",
                 "marker-color": "FF8500",
-		"wiki": "wiki.freifunk.net/Berlin:Standorte:Stattbad_Wedding"
+		"wiki": "wiki.freifunk.net/Berlin:Standorte:Stattbad_Wedding",
+		"batch": 2
             }
         },
         {
@@ -258,7 +261,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.350769,52.543373], [13.372978,52.543966]] },
             "properties": {
-                "name": "TBD",
+                "name": "Beuth - Stattbad Wedding",
                 "line-color": "00FF00"
             }
         },
@@ -266,7 +269,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.350769,52.543373], [13.411956,52.536097]] },
             "properties": {
-                "name": "? - Segenskirche",
+                "name": "Beuth - Segenskirche",
                 "line-color": "00FF00"
             }
         },
@@ -307,43 +310,26 @@
             "geometry": { "type": "Point", "coordinates": [13.436064720153809,52.48434178676255] },
             "properties": {
                 "name": "Martin-Luther-Kirche",
-                "marker-color": "FF8500"
+                "marker-color": "FF8500",
+		"log": "TDB"
             }
-        }
+        },
         {
-      "type": "Feature",
-      "properties": {
-        "name": "Zoofenster",
-        "marker-color": "00FF00",
-        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Zoofenster"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.333250284194946,
-          52.50550564660158
-        ]
-      }
+	    "type": "Feature",
+	    "geometry": { "type": "Point", "coordinates": [13.333250284194946, 52.50550564660158] },
+	    "properties": {
+		"name": "Zoofenster",
+		"marker-color": "00FF00",
+		"wiki": "http://wiki.freifunk.net/Berlin:Standorte:Zoofenster"
+	    }
 	},
 	{
-      "type": "Feature",
-      "properties": {
-        "name": "Rathaus Kreuzberg - Zoofenster",
-        "line-color": "00FF00"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.333250284194946,
-            52.50550564660158
-          ],
-          [
-            13.384874761104584,
-            52.49372307530778
-          ]
-        ]
-      }
+	    "type": "Feature",
+	    "geometry": { "type": "LineString", "coordinates": [[13.333250284194946, 52.50550564660158], [13.384874761104584, 52.49372307530778]] },
+	    "properties": {
+		"name": "Rathaus Kreuzberg - Zoofenster",
+		"line-color": "00FF00"
+	    }
 	},
 	{
       "type": "Feature",
@@ -351,13 +337,7 @@
         "name": "Scandic",
         "marker-color": "00FF00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.37485671043396,
-          52.50445422616214
-        ]
-      }
+      "geometry": { "type": "Point", "coordinates": [ 13.37485671043396, 52.50445422616214 ] }
 	},
 	{
       "type": "Feature",
@@ -365,79 +345,7 @@
         "name": "Zoofenster - Scandic",
         "line-color": "00FF00"
       },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.333250284194946,
-            52.50550564660158
-          ],
-          [
-            13.37485671043396,
-            52.50445422616214
-          ]
-        ]
-      }
-	},
-	{
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.454699,
-            52.503481
-          ],
-          [
-            13.384871,
-            52.49372
-          ]
-        ]
-      },
-      "properties": {
-        "name": "TBD",
-        "line-color": "00FF00"
-      }
-	},
-	{
-	      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.454699,
-            52.503481
-          ],
-          [
-            13.466175,
-            52.513722
-          ]
-        ]
-      },
-      "properties": {
-        "name": "TBD",
-        "line-color": "00FF00"
-      }
-	},
-	{
-	      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.350769,
-            52.543373
-          ],
-          [
-            13.372978,
-            52.543966
-          ]
-        ]
-      },
-      "properties": {
-        "name": "TBD",
-        "line-color": "00FF00"
-      }
+      "geometry": { "type": "LineString", "coordinates": [ [ 13.333250284194946, 52.50550564660158 ], [ 13.37485671043396, 52.50445422616214 ] ] }
 	},
 	{
 	      "type": "Feature",
@@ -445,13 +353,7 @@
         "name": "Monumentenstraße",
         "marker-color": "00FF00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.375897407531738,
-          52.48823565639024
-        ]
-      }
+      "geometry": { "type": "Point", "coordinates": [ 13.375897407531738, 52.48823565639024 ] }
 	},
 	{
       "type": "Feature",
@@ -459,13 +361,7 @@
         "name": "Kreuzgbergstraße 36",
         "marker-color": "00FF00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.37584376335144,
-          52.48947691820828
-        ]
-      }
+      "geometry": { "type": "Point", "coordinates": [ 13.37584376335144, 52.48947691820828 ] }
 	},
 	{
       "type": "Feature",
@@ -473,13 +369,7 @@
         "name": "Katzbachstraße",
         "marker-color": "00FF00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.376401662826538,
-          52.48906534580325
-        ]
-      }
+      "geometry": { "type": "Point", "coordinates": [ 13.376401662826538, 52.48906534580325 ] }
 	},
 	{
       "type": "Feature",
@@ -487,13 +377,7 @@
         "name": "Alex Tornado",
         "marker-color": "00FF00"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.387393355369568,
-          52.49029188553527
-        ]
-      }
+      "geometry": { "type": "Point", "coordinates": [ 13.387393355369568, 52.49029188553527 ] }
 	},
 	{
       "type": "Feature",
@@ -501,19 +385,7 @@
         "name": "Monumentenstraße - Bergmannstraße",
         "line-color": "00FF00"
       },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.375897407531738,
-            52.48823565639024
-          ],
-          [
-            13.387398719787598,
-            52.49029188553527
-          ]
-        ]
-      }
+      "geometry": { "type": "LineString", "coordinates": [ [ 13.375897407531738, 52.48823565639024 ], [ 13.387398719787598, 52.49029188553527 ] ] }
 	},
 	{
       "type": "Feature",
@@ -521,70 +393,28 @@
         "name": "Monumentenstraße - Bergmannstraße",
 
 	},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.375902771949766,
-            52.488238922914675
-          ],
-          [
-            13.37584912776947,
-            52.48947691820828
-          ]
-        ]
-      }
+      "geometry": { "type": "LineString", "coordinates": [ [ 13.375902771949766, 52.488238922914675 ], [ 13.37584912776947, 52.48947691820828 ] ] }
 	},
 	{
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.3758544921875,
-            52.489480184640534
-          ],
-          [
-            13.376417756080627,
-            52.48906534580325
-          ]
-        ]
-      }
+      "properties": {
+        "name": "TBD"
+	},
+      "geometry": { "type": "LineString", "coordinates": [ [ 13.3758544921875, 52.489480184640534 ], [ 13.376417756080627, 52.48906534580325 ] ] }
 	},
 	{
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.375902771949766,
-            52.48823565639024
-          ],
-          [
-            13.376417756080627,
-            52.48906861226609
-          ]
-        ]
-      }
+      "properties": {
+        "name": "TBD"
+	},
+      "geometry": { "type": "LineString", "coordinates": [ [ 13.375902771949766, 52.48823565639024 ], [ 13.376417756080627, 52.48906861226609 ] ] }
 	},
 	{
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.375902771949766,
-            52.488238922914675
-          ],
-          [
-            13.384874761104584,
-            52.49372144224923
-          ]
-        ]
-      }
+      "properties": {
+        "name": "TBD"
+	},
+      "geometry": { "type": "LineString", "coordinates": [ [ 13.375902771949766, 52.488238922914675 ], [ 13.384874761104584, 52.49372144224923 ] ] }
 	}
     ]
 }
