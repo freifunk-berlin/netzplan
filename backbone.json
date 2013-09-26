@@ -391,7 +391,7 @@
       "type": "Feature",
       "properties": {
         "name": "Monumentenstraße - Bergmannstraße",
-
+        "marker-color": "00FF00"
 	},
       "geometry": { "type": "LineString", "coordinates": [ [ 13.375902771949766, 52.488238922914675 ], [ 13.37584912776947, 52.48947691820828 ] ] }
 	},
