@@ -205,6 +205,26 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "name": "Alt-Moabit - Zoofenster",
+        "line-color": "00FF00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.342662,
+            52.523919
+          ],
+          [
+            13.333250284194946,
+            52.50550564660158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -670,7 +690,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Monumentenstraße - Bergmannstraße",
+
+	},
       "geometry": {
         "type": "LineString",
         "coordinates": [
