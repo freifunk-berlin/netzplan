@@ -170,6 +170,42 @@
         "batch": 1
       }
     },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466529250144958,
+          52.51797383634725
+        ]
+      },
+      "properties": {
+        "name": "Samariterkirche",
+        "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Samariterkirche",
+        "marker-color": null,
+        "batch": 2
+	}
+     },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samariterkirche - Kinzig9",
+        "line-color": "00FF00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.466175,
+            52.513722
+          ],
+          [
+            13.466529250144958,
+            52.51797383634725
+          ]
+        ]
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
