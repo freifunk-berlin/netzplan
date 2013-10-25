@@ -46,7 +46,7 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.384871,52.49372] },
             "properties": {
-                "marker-color": "8B008B",
+                "marker-color": "00FF00",
                 "name": "Bezirksamt Kreuzberg",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Bezirksamt_Kreuzberg",
             	"batch":1
@@ -243,18 +243,20 @@
         },
         {
             "type": "Feature",
-            "geometry": { "type": "Point", "coordinates": [13.386711,52.558808] },
+            "geometry": { "type": "Point", "coordinates": [13.38268,52.52182] },
             "properties": {
-                "name": "Abgesagt: Stephanuskirche",
-                "marker-color": "FF0000"
+                "name": "M11 (Idee)",
+                "marker-color": "CCCCCC",
+		"wiki": "wiki.freifunk.net/Berlin:Standorte:Stattbad_Wedding",
+		"batch": 2
             }
         },
         {
             "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.386711,52.558808], [13.372978,52.543966]] },
+            "geometry": { "type": "Point", "coordinates": [13.386711,52.558808] },
             "properties": {
-                "name": "Abgesagt: Raumfahrtagentur (Statbad Wedding) - Stephanuskirche",
-                "line-color": "FF0000"
+                "name": "Abgesagt: Stephanuskirche",
+                "marker-color": "FF0000"
             }
         },
         {
@@ -271,6 +273,14 @@
             "properties": {
                 "name": "Beuth - Segenskirche",
                 "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.38268,52.52182], [13.411956,52.536097]] },
+            "properties": {
+                "name": "M11 - Segenskirche (Idee)",
+                "line-color": "cccccc"
             }
         },
         {
