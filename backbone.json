@@ -66,7 +66,7 @@
             "properties": {
                 "name": "Segenskirche",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Segenskirche",
-                "marker-color": "8B008B",
+                "marker-color": "00FF00",
 		"log": null,
                 "batch":1
             }
@@ -77,7 +77,7 @@
             "properties": {
                 "name": "Eliaskirche",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Eliaskirche",
-                "marker-color": "8B008B",
+                "marker-color": "00FF00",
 		"log": null,
                 "batch":1
             }
@@ -87,7 +87,7 @@
             "geometry": { "type": "LineString", "coordinates": [[13.422605,52.540593], [13.411956,52.536097]] },
             "properties": {
                 "name": "Eliaskirche - Segenskirche",
-                "line-color": "00FF00"
+                "maker-color": "00FF00"
             }
         },
         {
@@ -132,7 +132,7 @@
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.342662,52.523919] },
             "properties": {
-                "marker-color": "8B008B",
+                "marker-color": "FF8500",
                 "name": "Alt-Moabit",
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:Alt-Moabit",
 		"log": "20.08.2013: Vertrag unterschrieben, 26.09.2013: Angebote Elektriker liegen vor, Beauftragung steht bevor",
@@ -338,7 +338,7 @@
 	    "geometry": { "type": "LineString", "coordinates": [[13.333250284194946, 52.50550564660158], [13.384874761104584, 52.49372307530778]] },
 	    "properties": {
 		"name": "Rathaus Kreuzberg - Zoofenster",
-		"line-color": "00FF00"
+		"maker-color": "00FF00"
 	    }
 	},
 	{
