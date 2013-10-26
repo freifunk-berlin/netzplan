@@ -86,7 +86,7 @@
             "type": "Feature",
             "geometry": { "type": "LineString", "coordinates": [[13.422605,52.540593], [13.411956,52.536097]] },
             "properties": {
-                "name": "Eliaskirche - Segenskirche",
+                "name": "Eliaskirche - Segenskirche"
             }
         },
         {
@@ -246,8 +246,7 @@
             "properties": {
                 "name": "M11 (Idee)",
                 "marker-color": "CCCCCC",
-		"wiki": "wiki.freifunk.net/Berlin:Standorte:Stattbad_Wedding",
-		"batch": 2
+		"batch": null
             }
         },
         {
@@ -336,7 +335,7 @@
 	    "type": "Feature",
 	    "geometry": { "type": "LineString", "coordinates": [[13.333250284194946, 52.50550564660158], [13.384874761104584, 52.49372307530778]] },
 	    "properties": {
-		"name": "Rathaus Kreuzberg - Zoofenster",
+		"name": "Rathaus Kreuzberg - Zoofenster"
 	    }
 	},
 	{
