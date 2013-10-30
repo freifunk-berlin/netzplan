@@ -71,6 +71,13 @@
                 "batch":1
             }
         },
+	{
+	    "type": "Feature",
+	    "geometry": { "type": "LineString", "coordinates": [[13.411956,52.536097], [13.333250284194946, 52.50550564660158]] },
+	    "properties": {
+		"name": "Segenskirche - Zoofenster"
+	    }
+        },
         {
             "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.422605,52.540593] },
