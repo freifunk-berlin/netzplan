@@ -146,6 +146,16 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.369141,52.501963] },
+            "properties": {
+                "marker-color": "FF8500",
+                "name": "IPB",
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:L%C3%BCtzowstr",
+                "batch": 3
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.342662,52.523919] },
             "properties": {
                 "marker-color": "FF8500",
