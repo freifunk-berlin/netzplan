@@ -441,7 +441,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kreuzgbergstraße 36",
-        "marker-color": "00FF00"
+        "marker-color": "8B008B"
       },
       "geometry": { "type": "Point", "coordinates": [ 13.37584376335144, 52.48947691820828 ] }
 	},
