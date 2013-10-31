@@ -136,6 +136,16 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.441027,52.502867] },
+            "properties": {
+                "marker-color": "FF8500",
+                "name": "FluxFM",
+                "wiki": "http://wiki.freifunk.net/Berlin:Standorte:FluxFM",
+                "batch":3
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.342662,52.523919] },
             "properties": {
                 "marker-color": "FF8500",
