@@ -53,10 +53,26 @@
             }
         },
         {
+	    "type": "Feature",
+	    "geometry": { "type": "LineString", "coordinates": [[13.369141,52.501963], [13.384871,52.49372]] },
+	    "properties": {
+		"name": "IPB - Rathaus Kreuzberg",
+		"line-color": "00FF00"
+	    }
+        },
+        {
             "type": "Feature",
-            "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.432251, 52.482173]] },
+            "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.430981, 52.499811]] },
             "properties": {
-                "name": "Bezirksamt Kreuzberg - Neukoeln Arkaden",
+                "name": "Rathaus Kreuzberg - Emmaus-Kirche",
+                "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.384871,52.49372],[13.366798,52.49177]] },
+            "properties": {
+                "name": "Rathaus Kreuzberg - Mansteinstr",
                 "line-color": "00FF00"
             }
         },
@@ -146,6 +162,22 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.441027,52.502867],[13.430981, 52.499811]] },
+            "properties": {
+                "name": "FluxFM - Emmaus-Kirche",
+                "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "LineString", "coordinates": [[13.441027,52.502867],[13.454699,52.503481]] },
+            "properties": {
+                "name": "FluxFM - Zwingli-Kirche",
+                "line-color": "00FF00"
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.369141,52.501963] },
             "properties": {
                 "marker-color": "FF8500",
@@ -153,6 +185,14 @@
                 "wiki": "http://wiki.freifunk.net/Berlin:Standorte:L%C3%BCtzowstr",
                 "batch": 3
             }
+        },
+        {
+	    "type": "Feature",
+	    "geometry": { "type": "LineString", "coordinates": [[13.369141,52.501963], [13.384871,52.49372]] },
+	    "properties": {
+		"name": "IPB - Rathaus Kreuzberg",
+		"line-color": "00FF00"
+	    }
         },
         {
             "type": "Feature",
