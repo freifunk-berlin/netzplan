@@ -267,6 +267,14 @@
         },
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.24100,52.49760] },
+            "properties": {
+                "name": "Teufelsberg",
+                "marker-color": "FF8500"
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.52406,52.455834] },
             "properties": {
                 "name": "Kleinwinderenergie - HTW Berlin",
