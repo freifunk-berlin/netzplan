@@ -3,6 +3,26 @@
     "features": [
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.45200,52.47469] },
+            "properties": {
+                "name": "Der kleine Budda bioladen & bistro",
+                "note": "Freedom Fighter Box (Anon-VPN)",
+                "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
+                "marker-color": "8B008B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.44733,52.47400] },
+            "properties": {
+                "name": "grreenstuff Bioladen & Cafe",
+                "note": "Freedom Fighter Box (Anon-VPN)",
+                "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
+                "marker-color": "8B008B"
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.451213,52.473704] },
             "properties": {
                 "name": "B-Lage",
