@@ -3,6 +3,16 @@
     "features": [
         {
             "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [13.43095,52.48654] },
+            "properties": {
+                "name": "Tristeza",
+                "note": "Freedom Fighter Box (Anon-VPN)",
+                "wiki": "http://wiki.freifunk.net/Freifunk_freedom_fighter_box",
+                "marker-color": "8B008B"
+            }
+        },
+        {
+            "type": "Feature",
             "geometry": { "type": "Point", "coordinates": [13.45200,52.47469] },
             "properties": {
                 "name": "Der kleine Budda bioladen & bistro",
