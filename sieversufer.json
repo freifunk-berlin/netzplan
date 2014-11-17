@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DF0101",
+        "name": "Sieversufer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.449001014232635,
+          52.46082587899982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3ADF00",
+        "name": "rathaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434616327285767,
+          52.48173152514267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3ADF00",
+        "name": "philmel-kirche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43398332595825,
+          52.4657431526532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.433994054794312,
+            52.46577583458875
+          ],
+          [
+            13.449035882949829,
+            52.4608536617497
+          ],
+          [
+            13.434627056121826,
+            52.481747860177556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "osz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.452597856521606,
+          52.45828450037899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.44901442527771,
+            52.46084712463366
+          ],
+          [
+            13.452565670013426,
+            52.458310650359316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "asylbewerberheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.455698490142822,
+          52.453498792506736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.44902515411377,
+            52.46086019886478
+          ],
+          [
+            13.455719947814941,
+            52.4535510981361
+          ]
+        ]
+      }
+    }
+  ]
+}
